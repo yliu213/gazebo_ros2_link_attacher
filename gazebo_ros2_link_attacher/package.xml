@@ -3,7 +3,7 @@
   <version>0.1.0</version>
   <description>ROS2 Gazebo Plugin to attach/detach links at runtime</description>
 
-  <maintainer email="your@email.com">Your Name</maintainer>
+  <maintainer email="yo12@ualberta.ca">Yongqing Liu</maintainer>
   <license>BSD-3-Clause</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
